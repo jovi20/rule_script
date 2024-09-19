@@ -28,13 +28,11 @@ DOMAIN,services.bingapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,sydney.bing.com
 DOMAIN,ssl.bing.com
+DOMAIN,www.bing.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,events.statsigapi.net
