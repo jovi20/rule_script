@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 IP-CIDR,158.101.64.0/19,no-resolve
@@ -46,4 +46,8 @@ IP-CIDR,24.199.112.0/20,no-resolve
 IP-CIDR,209.38.64.0/20,no-resolve
 IP-CIDR,64.23.128.0/20,no-resolve
 IP-CIDR,131.186.0.0/16,no-resolve
+IP-CIDR,140.245.0.0/16,no-resolve
+IP-CIDR,138.3.210.144/32,no-resolve
+IP-CIDR,168.138.215.123/32,no-resolve
+IP-CIDR,140.238.51.65/32,no-resolve
 IP-ASN,20473,no-resolve
