@@ -45,4 +45,5 @@ IP-CIDR,158.101.64.0/19,no-resolve
 IP-CIDR,24.199.112.0/20,no-resolve
 IP-CIDR,209.38.64.0/20,no-resolve
 IP-CIDR,64.23.128.0/20,no-resolve
+IP-CIDR,131.186.0.0/16,no-resolve
 IP-ASN,20473,no-resolve
